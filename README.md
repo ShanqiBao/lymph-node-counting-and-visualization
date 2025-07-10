@@ -7,3 +7,4 @@ For lymph nodes, the following were carried out:
 3. Distribution probability heatmapping
 4. Distribution curve plotting
 5. Image merging
+6. Zone plotting
