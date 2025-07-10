@@ -1,6 +1,6 @@
 # lymph-node-counting-and-visualization
 
-For lymph nodes, the following was carried out:
+For lymph nodes, the following were carried out:
 
 1. Spatial coordinate extraction
 2. Regional counting by zones
